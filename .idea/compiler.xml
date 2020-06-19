@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cd_warehouse" target="9" />
+      <module name="cd_warehouse" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
